@@ -9,3 +9,6 @@ längst den Bahnhof verlassen hat.
 ## Meine To-dos:
 - [x] README.md befüllen
 - [ ] Ganz andere Dinge ..
+- [ ] Weitere option
+- [x] Fehler behoben
+
